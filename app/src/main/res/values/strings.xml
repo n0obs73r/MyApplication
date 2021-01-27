@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tuturu</string>
+    <string name="hello_world_my_name_is_aryan_dadheech">Hello World! My Name is Aryan Dadheech</string>
+    <string name="press_to_say_hello">Press to say Hello!</string>
+    <string name="press_to_release_stress">Press to release Stress:</string>
+</resources>
